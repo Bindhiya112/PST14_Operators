@@ -1,0 +1,12 @@
+public class Main {
+    public static void main(String[] args) {
+        int marks = 35;
+        boolean grace = true;
+        if (marks >= 40 || grace) {
+            System.out.println("Student PASSES");
+        } else {
+            System.out.println("Student FAILS");
+        }
+
+    }
+}
