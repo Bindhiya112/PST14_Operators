@@ -1,0 +1,15 @@
+public class java {
+    public static void main(String[] args) {
+
+        int left = 10;
+        int right = 20;
+        
+        System.out.println("2 values equal? " + (left == right));
+        System.out.println("2 values not equal? " + (left != right));
+        System.out.println("left greater than right? " + (left > right));
+        System.out.println("left smaller than right? " + (left < right));
+        System.out.println("left >= right? " + (left >= right));   
+        System.out.println("left <= right? " + (left <= right));
+    }
+}
+
