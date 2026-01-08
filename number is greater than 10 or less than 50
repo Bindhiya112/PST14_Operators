@@ -1,0 +1,12 @@
+public class Main {
+    public static void main(String[] args) {
+
+        int num = 51;
+
+        if (num > 10 && num < 50) {
+            System.out.println("Number is greater than 10 and less than 50");
+        } else {
+            System.out.println("Number is NOT between 10 and 50");
+        }
+    }
+}
